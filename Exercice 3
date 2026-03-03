@@ -1,0 +1,9 @@
+public class Presentation {
+    public static void main(String[] args) {
+        String nom = "TonNom"; // remplace par ton nom
+        int age = 25; // remplace par ton âge
+        double taille = 1.75; // remplace par ta taille en mètres
+
+        System.out.println("Je m'appelle " + nom + ", j'ai " + age + " ans, et je mesure " + taille + " m.");
+    }
+}
